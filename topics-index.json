@@ -1,0 +1,2452 @@
+[
+ {
+  "id": "t0",
+  "d": 0,
+  "t": "Articulation de l’épaule",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t1",
+  "d": 0,
+  "t": "Articulation du coude",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t2",
+  "d": 0,
+  "t": "Articulation de la hanche",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t3",
+  "d": 0,
+  "t": "Articulation du genou",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t4",
+  "d": 0,
+  "t": "Articulation du poignet",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t5",
+  "d": 0,
+  "t": "Les tendons de la main",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t6",
+  "d": 0,
+  "t": "Creux Axillaire",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t7",
+  "d": 0,
+  "t": "Pli du coude",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t8",
+  "d": 0,
+  "t": "Triangle de Scarpa",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t9",
+  "d": 0,
+  "t": "Creux poplité",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t10",
+  "d": 0,
+  "t": "Vascularisation et innervation du membre supérieur",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t11",
+  "d": 0,
+  "t": "Vascularisation et innervation du membre inférieur",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t12",
+  "d": 0,
+  "t": "Région carotidienne",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t13",
+  "d": 0,
+  "t": "Aorte thoracique",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t14",
+  "d": 0,
+  "t": "Nerf optique",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t15",
+  "d": 0,
+  "t": "Corps thyroîde",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t16",
+  "d": 0,
+  "t": "Nerf récurrent",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t17",
+  "d": 0,
+  "t": "Pédicule pulmonaire",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t18",
+  "d": 0,
+  "t": "Vascularisation et innervation du coeur",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t19",
+  "d": 0,
+  "t": "oesophage thoracique",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t20",
+  "d": 0,
+  "t": "Coeur et péricarde",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t21",
+  "d": 0,
+  "t": "Canal thoracique",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t22",
+  "d": 0,
+  "t": "Vascularisation de l’estomac (vaisseaux et lymphatiques)",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t23",
+  "d": 0,
+  "t": "Pédicule hépatique",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t24",
+  "d": 0,
+  "t": "Duodéno-pancréas",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t25",
+  "d": 0,
+  "t": "Côlon",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t26",
+  "d": 0,
+  "t": "Réctum",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t27",
+  "d": 0,
+  "t": "Loge rénale",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t28",
+  "d": 0,
+  "t": "Aorte abdominale",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t29",
+  "d": 0,
+  "t": "Artère rénale",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t30",
+  "d": 0,
+  "t": "Loge prostatique",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t31",
+  "d": 0,
+  "t": "Utérus",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t32",
+  "d": 0,
+  "t": "Annexes (trompe, ovaires,ligament large)",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t33",
+  "d": 0,
+  "t": "Oreilles",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t34",
+  "d": 0,
+  "t": "Cerveau et cervelet",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t35",
+  "d": 0,
+  "t": "Moelle épinière",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t36",
+  "d": 0,
+  "t": "Nez",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t37",
+  "d": 0,
+  "t": "Voies aèriennes",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t38",
+  "d": 0,
+  "t": "Oropharynx",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t39",
+  "d": 0,
+  "t": "Larynx",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t40",
+  "d": 0,
+  "t": "Poumons, trachée et branches",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t41",
+  "d": 0,
+  "t": "Diaphragme",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t42",
+  "d": 0,
+  "t": "Paroi thoracique",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t43",
+  "d": 0,
+  "t": "Paroi abdominale",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t44",
+  "d": 0,
+  "t": "Sein",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t45",
+  "d": 0,
+  "t": "oeil",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t46",
+  "d": 0,
+  "t": "Veine cave supérieure",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t47",
+  "d": 0,
+  "t": "Veine cave inférieure",
+  "c": "Anatomie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t48",
+  "d": 1,
+  "t": "Ventilation pulmonaire : Physiologie et Exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t49",
+  "d": 1,
+  "t": "Hématose : Physiologie et Exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t50",
+  "d": 1,
+  "t": "Bronchomotricité et Bronchosensibilité : Physiologie et Exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t51",
+  "d": 1,
+  "t": "Antibiotiques : Spectre, Mécanismes d’action, Mécanismes de résistances",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t52",
+  "d": 1,
+  "t": "Régulation et Exploration de la glycémie",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t53",
+  "d": 1,
+  "t": "Equilibre Hydro-electrolytique : répartition et exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t54",
+  "d": 1,
+  "t": "Equilibre Phosphocalcique : métabolisme, régulation, exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t55",
+  "d": 1,
+  "t": "Equilibre acido-basique",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t56",
+  "d": 1,
+  "t": "Lipoprotéines plasmatiques : métabolisme, exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t57",
+  "d": 1,
+  "t": "Hormones thyroïdiennes : biosynthèse, régulation, effets biologiques, exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t58",
+  "d": 1,
+  "t": "Auto-immunité",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t59",
+  "d": 1,
+  "t": "Hypersensibilité immédiate, retardée, à complexes immuns",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t60",
+  "d": 1,
+  "t": "Immunoglobulines : structure, fonctions, variations physiopathologiques",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t61",
+  "d": 1,
+  "t": "Système du complément : nomenclature, voies d’activation, variations physiopathologiques",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t62",
+  "d": 1,
+  "t": "Polynucléaires : morphologie, fonction",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t63",
+  "d": 1,
+  "t": "Lymphocytes : morphologie, fonction",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t64",
+  "d": 1,
+  "t": "Globule rouge : morphologie, physiologie",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t65",
+  "d": 1,
+  "t": "Hémoglobine : structure, biosynthèse, fonctions",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t66",
+  "d": 1,
+  "t": "Hémolyse : physiologie, exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t67",
+  "d": 1,
+  "t": "Métabolisme de la vitamine B12",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t68",
+  "d": 1,
+  "t": "Métabolisme du Fer",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t69",
+  "d": 1,
+  "t": "Hémostase : physiologie, exploration",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t70",
+  "d": 1,
+  "t": "Système ABO et Rhésus : biochimie, génétique, détermination",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t71",
+  "d": 1,
+  "t": "Inflammation",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t72",
+  "d": 1,
+  "t": "Carcinogenèse",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t73",
+  "d": 1,
+  "t": "Marqueurs tumoraux",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t74",
+  "d": 1,
+  "t": "Débit cardiaque et ses facteurs d’adaptation",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t75",
+  "d": 1,
+  "t": "Régulation de la pression artérielle",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t76",
+  "d": 1,
+  "t": "Régulation thermique : facteurs physiologiques et physico-chimiques",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t77",
+  "d": 1,
+  "t": "Filtration glomérulaire et fonctions tubulaires rénales",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t78",
+  "d": 1,
+  "t": "Physiologie de la digestion et de l’absorption intestinales",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t79",
+  "d": 1,
+  "t": "Physiologie de la sécrétion gastrique",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t80",
+  "d": 1,
+  "t": "Circulation sanguine",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t81",
+  "d": 1,
+  "t": "Rayonnements ionisants : interactions, effets biologiques, radioprotection",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t82",
+  "d": 1,
+  "t": "Physiologie de la sensibilité",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t83",
+  "d": 1,
+  "t": "Physiologie du système pyramidal",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t84",
+  "d": 1,
+  "t": "Système extrapyramidal",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t85",
+  "d": 1,
+  "t": "Physiologie du cervelet",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t86",
+  "d": 1,
+  "t": "Physiologie de l’appareil hypothalamo-hypophysaire",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t87",
+  "d": 1,
+  "t": "Physiologie de la médullosurrénale",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t88",
+  "d": 1,
+  "t": "Spermatogenèse",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t89",
+  "d": 1,
+  "t": "Ovogenèse",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t90",
+  "d": 1,
+  "t": "Fécondation",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t91",
+  "d": 1,
+  "t": "Cycle menstruel",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t92",
+  "d": 1,
+  "t": "Physiologie de la ménopause",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t93",
+  "d": 1,
+  "t": "Physiologie de la croissance osseuse",
+  "c": "Biologie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t94",
+  "d": 2,
+  "t": "Traumatisme du bassin",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t95",
+  "d": 2,
+  "t": "Fractures du fémur : extrémité supérieure, diaphyse, extrémité inférieure",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t96",
+  "d": 2,
+  "t": "Traumatismes du genou",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t97",
+  "d": 2,
+  "t": "Fractures de jambe",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t98",
+  "d": 2,
+  "t": "Traumatismes de la cheville",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t99",
+  "d": 2,
+  "t": "Instabilité de l’épaule",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t100",
+  "d": 2,
+  "t": "Traumatismes de l’épaule",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t101",
+  "d": 2,
+  "t": "Fractures de l’humérus : extrémité supérieure, diaphyse, extrémité inférieure",
+  "c": "Chirurgie - Admissibilité",
+  "n": 28
+ },
+ {
+  "id": "t102",
+  "d": 2,
+  "t": "Traumatismes du coude",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t103",
+  "d": 2,
+  "t": "Fractures des deux os de l’avant-bras",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t104",
+  "d": 2,
+  "t": "Traumatismes du poignet",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t106",
+  "d": 2,
+  "t": "Mal de Pott",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t107",
+  "d": 2,
+  "t": "Tuberculose ostéo-articulaire",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t108",
+  "d": 2,
+  "t": "Tumeurs osseuses",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t109",
+  "d": 2,
+  "t": "Cancer de l’oesophage",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t110",
+  "d": 2,
+  "t": "Cancer de l’estomac",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t111",
+  "d": 2,
+  "t": "Lithiases vésiculaires",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t112",
+  "d": 2,
+  "t": "Ictères rétentionnels",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t113",
+  "d": 2,
+  "t": "Kyste hydatique du fois",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t114",
+  "d": 2,
+  "t": "Tumeurs du foie",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t115",
+  "d": 2,
+  "t": "Cancer du pancréas",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t116",
+  "d": 2,
+  "t": "Hernies de paroi : inguinale, crurale, ombilicale",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t117",
+  "d": 2,
+  "t": "Cancer du colon",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t118",
+  "d": 2,
+  "t": "Cancer du rectum",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t119",
+  "d": 2,
+  "t": "Hypertrophies prostatiques",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t120",
+  "d": 2,
+  "t": "Tumeurs du rein. (Bénignes, malignes)",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t121",
+  "d": 2,
+  "t": "Sténoses de l’urètre",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t122",
+  "d": 2,
+  "t": "Uropathies malformatives",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t123",
+  "d": 2,
+  "t": "Tumeurs de vessie",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t124",
+  "d": 2,
+  "t": "Cancer du testicule",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t125",
+  "d": 2,
+  "t": "Lithiases urinaires",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t126",
+  "d": 2,
+  "t": "Fistules vésico-vaginales",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t127",
+  "d": 2,
+  "t": "Cancer du col utérin",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t128",
+  "d": 2,
+  "t": "Cancer de l’endomètre",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t129",
+  "d": 2,
+  "t": "Cancer du sein",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t130",
+  "d": 2,
+  "t": "Prolapsus génitaux",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t131",
+  "d": 2,
+  "t": "Otites moyennes chroniques",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t132",
+  "d": 2,
+  "t": "Cancer de la langue",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t133",
+  "d": 2,
+  "t": "Cancer des lèvres",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t134",
+  "d": 2,
+  "t": "Cancer du larynx",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t135",
+  "d": 2,
+  "t": "Goitre thyroïdien",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t136",
+  "d": 2,
+  "t": "Cancers de la thyroïde",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t137",
+  "d": 2,
+  "t": "Cataracte",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t138",
+  "d": 2,
+  "t": "Kyste hydatique du poumon",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t139",
+  "d": 2,
+  "t": "Cancers du poumon",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t140",
+  "d": 2,
+  "t": "Hématome sous-dural chronique",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t141",
+  "d": 2,
+  "t": "Traumatismes crâniens",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t142",
+  "d": 2,
+  "t": "Traumatismes du rachis",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t143",
+  "d": 2,
+  "t": "Syndrome de la queue de cheval",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t144",
+  "d": 2,
+  "t": "Tumeurs de la fosse cérébrale postérieure",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t145",
+  "d": 2,
+  "t": "Cancer du cavum",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t146",
+  "d": 2,
+  "t": "Varices des membres inférieurs",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t147",
+  "d": 2,
+  "t": "Artériopathies athéromateuses des membres inférieurs",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t148",
+  "d": 2,
+  "t": "Anévrysmes artériels",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t149",
+  "d": 2,
+  "t": "Anévrysmes aortiques",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t150",
+  "d": 2,
+  "t": "Coarctation de l’aorte",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t151",
+  "d": 2,
+  "t": "Oblitérations chroniques aorto-iliaques",
+  "c": "Chirurgie - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t152",
+  "d": 2,
+  "t": "CAT devant une péritonite aigue",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t153",
+  "d": 2,
+  "t": "CAT devant une occlusion intestinale aigue",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t154",
+  "d": 2,
+  "t": "CAT devant une contusion bdominale",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t155",
+  "d": 2,
+  "t": "CAT devant une pancréatite aigue",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t156",
+  "d": 2,
+  "t": "CAT devant une oesophagite caustique",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t157",
+  "d": 2,
+  "t": "CAT devant un kyste de l'ovaire compliqué",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t158",
+  "d": 2,
+  "t": "CAT devant un fibrome utérin compliqué",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t159",
+  "d": 2,
+  "t": "CAT devant un avortement spontané",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t160",
+  "d": 2,
+  "t": "CAT devant une hémorragie génitale en dehors de la grossesse",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t161",
+  "d": 2,
+  "t": "CAT devant une rétention aigue d'urine",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t162",
+  "d": 2,
+  "t": "CAT devant un polytraumatisé",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t163",
+  "d": 2,
+  "t": "CAT devant un traumatisme fermé du thorax",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t164",
+  "d": 2,
+  "t": "CAT devant un traumatisme du rein",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t165",
+  "d": 2,
+  "t": "CAT devant une compression médullaire",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t166",
+  "d": 2,
+  "t": "CAT devant une hémorragie méningée",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t167",
+  "d": 2,
+  "t": "CAT devant une plaie de la main",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t168",
+  "d": 2,
+  "t": "CAT devant une plaie articulaire",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 23
+ },
+ {
+  "id": "t169",
+  "d": 2,
+  "t": "CAT devant un panaris",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t170",
+  "d": 2,
+  "t": "CAT devant un phlégmon de la main",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t171",
+  "d": 2,
+  "t": "CAT devant un syndrome de Volkman",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t172",
+  "d": 2,
+  "t": "CAT devant une fracture ouverte de la jambe",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t173",
+  "d": 2,
+  "t": "CAT devant une entorse de la cheville",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t174",
+  "d": 2,
+  "t": "CAT devant un écrasement des membres",
+  "c": "Chirurgie - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t175",
+  "d": 3,
+  "t": "Hyperthyroîdies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t176",
+  "d": 3,
+  "t": "Hypothyroîdies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t177",
+  "d": 3,
+  "t": "Hyperparathyroîdies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t178",
+  "d": 3,
+  "t": "Hypercorticisme",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t179",
+  "d": 3,
+  "t": "Insuffisance surrénale Lente",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t180",
+  "d": 3,
+  "t": "Diabéte Sucré",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t181",
+  "d": 3,
+  "t": "Dyslipidémies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t182",
+  "d": 3,
+  "t": "Anémies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t183",
+  "d": 3,
+  "t": "Purpuras",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t184",
+  "d": 3,
+  "t": "Maladie de Hodgkin",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t185",
+  "d": 3,
+  "t": "Lymphomes Malins Non Hodgkiniens",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t186",
+  "d": 3,
+  "t": "Leucémies Aigûes",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t187",
+  "d": 3,
+  "t": "Leucémie Myéloide Chronique",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t188",
+  "d": 3,
+  "t": "Leucémie Lymphoide Chronique",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t189",
+  "d": 3,
+  "t": "Polyglobulies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t190",
+  "d": 3,
+  "t": "Myélome Multiple",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t191",
+  "d": 3,
+  "t": "Insuffisance Médullaire",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t192",
+  "d": 3,
+  "t": "Hémophilies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t193",
+  "d": 3,
+  "t": "Pneumonies Bactériennes et Virales",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t194",
+  "d": 3,
+  "t": "Insuffisances Respiratoires",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t195",
+  "d": 3,
+  "t": "Tuberculose Pleuro-pulmonaire",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t196",
+  "d": 3,
+  "t": "Dilatation des Bronches",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t197",
+  "d": 3,
+  "t": "Asthme",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t198",
+  "d": 3,
+  "t": "Ulcères gastro-duodénaux",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t199",
+  "d": 3,
+  "t": "Maladie de Crohn",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t200",
+  "d": 3,
+  "t": "Recto-Colite Hémorragique",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t201",
+  "d": 3,
+  "t": "Hépatites Virales",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t202",
+  "d": 3,
+  "t": "Cirrhoses",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t203",
+  "d": 3,
+  "t": "Hypertension portale",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t204",
+  "d": 3,
+  "t": "Pancréatites Chroniques",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t205",
+  "d": 3,
+  "t": "Tuberculose péritonéale",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t206",
+  "d": 3,
+  "t": "Parasitoses intestinales",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t207",
+  "d": 3,
+  "t": "Cancers Cutanés",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t208",
+  "d": 3,
+  "t": "Uréthrites",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t209",
+  "d": 3,
+  "t": "Dermatoses Virales",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t210",
+  "d": 3,
+  "t": "Vulvo-Vaginites",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t211",
+  "d": 3,
+  "t": "Syphilis",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t212",
+  "d": 3,
+  "t": "Purpura rhumatoide",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t213",
+  "d": 3,
+  "t": "Lupus érythémateux disséminé",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t214",
+  "d": 3,
+  "t": "Syndrome de Gougerot-Sjogren",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t215",
+  "d": 3,
+  "t": "Spondylarthrite ankylosante",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t216",
+  "d": 3,
+  "t": "Sarcoîdose",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t217",
+  "d": 3,
+  "t": "Goutte",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t218",
+  "d": 3,
+  "t": "Amyloses",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t219",
+  "d": 3,
+  "t": "Sciatiques",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t220",
+  "d": 3,
+  "t": "Névralgies cervico-brachiales",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t221",
+  "d": 3,
+  "t": "Ostéoporoses",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t222",
+  "d": 3,
+  "t": "Rhumatisme Articulaire Aigu",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t223",
+  "d": 3,
+  "t": "Hypertension Artérielle",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t224",
+  "d": 3,
+  "t": "Valvulopathies rhumatismales",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t225",
+  "d": 3,
+  "t": "Endocardites bactériennes",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t226",
+  "d": 3,
+  "t": "Insuffisance coronaire",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t227",
+  "d": 3,
+  "t": "Insuffisance cardiaque",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t228",
+  "d": 3,
+  "t": "Péricardites",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t229",
+  "d": 3,
+  "t": "Coeur pulmonaire chronique",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t230",
+  "d": 3,
+  "t": "Septicémies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t231",
+  "d": 3,
+  "t": "Fièvre thyphoîde",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t232",
+  "d": 3,
+  "t": "Paludisme",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t233",
+  "d": 3,
+  "t": "Leptospiroses",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t234",
+  "d": 3,
+  "t": "Infection à VIH",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t235",
+  "d": 3,
+  "t": "Fièvres prolongées",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t236",
+  "d": 3,
+  "t": "Syndrome néphrotique",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t237",
+  "d": 3,
+  "t": "Glomérulonéphrites",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t238",
+  "d": 3,
+  "t": "Infections urinaires de l'adulte",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t239",
+  "d": 3,
+  "t": "Plyélonéphrites chroniques",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t240",
+  "d": 3,
+  "t": "Insuffisance Rénale chronique",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t241",
+  "d": 3,
+  "t": "Polyradiculonévrites",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t242",
+  "d": 3,
+  "t": "Neuropathies Périphériques",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t243",
+  "d": 3,
+  "t": "Epilepsies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t244",
+  "d": 3,
+  "t": "Paraplégies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t245",
+  "d": 3,
+  "t": "Hémiplégies",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t246",
+  "d": 3,
+  "t": "Trachôme",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t247",
+  "d": 3,
+  "t": "Glaucomes",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t248",
+  "d": 3,
+  "t": "Dépression",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t249",
+  "d": 3,
+  "t": "Anxiété",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t250",
+  "d": 3,
+  "t": "Psychose maniaco-dépressive",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t251",
+  "d": 3,
+  "t": "Délire",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t252",
+  "d": 3,
+  "t": "Hystérie",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t253",
+  "d": 3,
+  "t": "Infections néo-natales",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t254",
+  "d": 3,
+  "t": "Infections respiratoires récidivantes du nourisson et de l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t255",
+  "d": 3,
+  "t": "Staphylococcies pleuro-pulmonaires",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t256",
+  "d": 3,
+  "t": "Douleurs abdominales du nourisson et de l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t257",
+  "d": 3,
+  "t": "Constipations de l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t258",
+  "d": 3,
+  "t": "Malnutritions protéino-caloriques",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t259",
+  "d": 3,
+  "t": "Rachitisme",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t260",
+  "d": 3,
+  "t": "Ataxies de l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t261",
+  "d": 3,
+  "t": "Infections urinaires du nourisson et de l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t262",
+  "d": 3,
+  "t": "Protéinuries de l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t263",
+  "d": 3,
+  "t": "Cardiopathies congénitales non cyanogènes",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t264",
+  "d": 3,
+  "t": "Masses abdominales de l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t265",
+  "d": 3,
+  "t": "Fièvres éruptives chez l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t266",
+  "d": 3,
+  "t": "Oreillons",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t267",
+  "d": 3,
+  "t": "Retard de croissance statural chez l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t268",
+  "d": 3,
+  "t": "Sévices à l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t269",
+  "d": 3,
+  "t": "Vaccinations chez l'enfant",
+  "c": "Médecine - Admissibilité",
+  "n": 30
+ },
+ {
+  "id": "t270",
+  "d": 3,
+  "t": "CAT devant une toxémie gravidique",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t271",
+  "d": 3,
+  "t": "CAT devant un état de choc",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t272",
+  "d": 3,
+  "t": "CAT devant un accident vasculaire cérébral",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t273",
+  "d": 3,
+  "t": "CAT devant une thrombose aigue",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t274",
+  "d": 3,
+  "t": "CAT devant une hypocalcémie",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t275",
+  "d": 3,
+  "t": "CAT devant une coagulation intravasculaire disséminée (CIVD)",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t276",
+  "d": 3,
+  "t": "CAT devant un accident de la transfusion sanguine",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t277",
+  "d": 3,
+  "t": "CAT devant une insuffisance hépato-cellulaire aigue",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 26
+ },
+ {
+  "id": "t278",
+  "d": 3,
+  "t": "CAT devant un ictère",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t279",
+  "d": 3,
+  "t": "CAT devant une ascite",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t280",
+  "d": 3,
+  "t": "CAT devant une diarrhée aigue",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t281",
+  "d": 3,
+  "t": "CAT devant une diarrhée chronique",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t282",
+  "d": 3,
+  "t": "CAT devant une morsure, une griffure",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t283",
+  "d": 3,
+  "t": "CAT devant un oeil rouge",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t284",
+  "d": 3,
+  "t": "CAT devant une hypertension intracrânienne",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t285",
+  "d": 3,
+  "t": "CAT devant un syndrome méningé",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t286",
+  "d": 3,
+  "t": "CAT devant une compression médullaire",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t287",
+  "d": 3,
+  "t": "CAT devant une pleurésie purulente",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t288",
+  "d": 3,
+  "t": "CAT devant une pleurésie séro-fibrineuse",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t289",
+  "d": 3,
+  "t": "CAT devant une méningite à liquide clair",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t290",
+  "d": 3,
+  "t": "CAT devant un érythème noueux",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t291",
+  "d": 3,
+  "t": "CAT devant une déshydratation aigue du nourrisson",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t292",
+  "d": 3,
+  "t": "CAT devant un vomissement du nourrisson",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t293",
+  "d": 3,
+  "t": "CAT devant une diarrhée aigue du nourrisson",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t294",
+  "d": 3,
+  "t": "CAT devant un syndrome hémorragique du nouveau-né",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t295",
+  "d": 3,
+  "t": "CAT devant une fièvre aigue du nourrisson",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t296",
+  "d": 3,
+  "t": "CAT devant une insuffisance cardiaque du nourrisson",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t297",
+  "d": 3,
+  "t": "CAT devant une cyanose de l’enfant",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t298",
+  "d": 3,
+  "t": "CAT devant une agitation",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t299",
+  "d": 3,
+  "t": "CAT devant une noyade",
+  "c": "Médecine - Admission - Conduites à Tenir",
+  "n": 30
+ },
+ {
+  "id": "t300",
+  "d": 4,
+  "t": "Eclampsie",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t301",
+  "d": 4,
+  "t": "Asthme aigu grave",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t302",
+  "d": 4,
+  "t": "Arrêt circulatoire",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t303",
+  "d": 4,
+  "t": "Tamponnade",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t304",
+  "d": 4,
+  "t": "Urgence hypertensive artérielle",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t305",
+  "d": 4,
+  "t": "Embolie pulmonaire aigue",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t306",
+  "d": 4,
+  "t": "oedème aigu du poumon",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t307",
+  "d": 4,
+  "t": "Infarctus du myocarde à la phase aigue",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t308",
+  "d": 4,
+  "t": "Tétanos",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t309",
+  "d": 4,
+  "t": "Hypoglycémie",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t310",
+  "d": 4,
+  "t": "Acidocétose diabétique",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t311",
+  "d": 4,
+  "t": "Insuffisance surrénalienne aigue",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t312",
+  "d": 4,
+  "t": "Pneumothorax",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t313",
+  "d": 4,
+  "t": "Méningites purulentes",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t314",
+  "d": 4,
+  "t": "Insuffisance rénale aigue",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t315",
+  "d": 4,
+  "t": "Conduites suicidaires",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t316",
+  "d": 4,
+  "t": "Confusions mentales",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t317",
+  "d": 4,
+  "t": "Détresse respiratoire du nouveau né",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t318",
+  "d": 4,
+  "t": "Bronchiolites aigues du nourrisson",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t319",
+  "d": 4,
+  "t": "Dyspnée laryngée obstructive du nourrisson",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t320",
+  "d": 4,
+  "t": "Convulsion fébrile du nourrisson",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t321",
+  "d": 4,
+  "t": "Méningites purulentes du nourrisson",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t322",
+  "d": 4,
+  "t": "Purpura fulminans de l’enfant",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t323",
+  "d": 4,
+  "t": "Miliaire tuberculeuse",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t324",
+  "d": 4,
+  "t": "Abcès pulmonaire",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t325",
+  "d": 4,
+  "t": "Arthrites septiques",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t326",
+  "d": 4,
+  "t": "Syndrome néphrétique aigu",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t327",
+  "d": 4,
+  "t": "Ictère néo-natal",
+  "c": "Médecine - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t328",
+  "d": 4,
+  "t": "Appendicite aigue",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t329",
+  "d": 4,
+  "t": "Volvulus du sigmoide",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t330",
+  "d": 4,
+  "t": "Invagination intestinale aigue",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t331",
+  "d": 4,
+  "t": "Hernie inguinale étranglée",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t332",
+  "d": 4,
+  "t": "Rupture diphragmatique",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t333",
+  "d": 4,
+  "t": "Angiocholite",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t334",
+  "d": 4,
+  "t": "Abcès du foie",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t335",
+  "d": 4,
+  "t": "Grossesse extra-uérine",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t336",
+  "d": 4,
+  "t": "Rupture utérine",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t337",
+  "d": 4,
+  "t": "Torsion du testicule",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t338",
+  "d": 4,
+  "t": "Rupture traumatique de l'urètre",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t339",
+  "d": 4,
+  "t": "Trachéotomie",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t340",
+  "d": 4,
+  "t": "Glaucome aigu à angle fermé",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t341",
+  "d": 4,
+  "t": "Plaie cranio-cérébrale",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t342",
+  "d": 4,
+  "t": "Hématome extra-dural",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t343",
+  "d": 4,
+  "t": "Luxation de l'épaule",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t344",
+  "d": 4,
+  "t": "Fracture supra-condylienne de l'enfant",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t345",
+  "d": 4,
+  "t": "Fracture de Pouteau-Colles",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t346",
+  "d": 4,
+  "t": "Luxation de la hanche",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t347",
+  "d": 4,
+  "t": "Ostéomyélite aigue",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t348",
+  "d": 4,
+  "t": "Traumatisme vasculaire des membres",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t349",
+  "d": 4,
+  "t": "Traumatismes des nerfs périphériques",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ },
+ {
+  "id": "t350",
+  "d": 4,
+  "t": "Ischémie aigue des membres inférieurs",
+  "c": "Chirurgie - Admission - Urgences",
+  "n": 30
+ }
+]
